@@ -1,0 +1,35 @@
+Class List
+Delivery Address
+    Street address
+    City
+    state
+    zip
+
+
+Payment Information
+    Card Type
+    Cardholder Name
+    Card Number
+    Expiration
+    CVV
+
+    Billing Address
+
+cart
+    price
+    quantity
+
+    Total
+        SubTotal
+        tax
+        PrintReciept()
+
+Food Item
+    Pizza
+        One Size
+
+        Pepperoni
+
+        Mozzarella
+
+        Marinara
